@@ -63,10 +63,10 @@
     <None Include="AndroidIconics.nuspec" />
     <None Include="Jars\AboutJars.txt" />
     <None Include="Additions\AboutAdditions.txt" />
-    <LibraryProjectZip Include="Jars\iconics-core-2.6.6.aar" />
     <None Include="LICENSE" />
     <None Include="packages.config" />
     <None Include="README.md" />
+    <LibraryProjectZip Include="Jars\iconics-core-2.7.0.aar" />
   </ItemGroup>
   <ItemGroup>
     <TransformFile Include="Transforms\Metadata.xml" />
